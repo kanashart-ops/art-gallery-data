@@ -8,14 +8,13 @@
   {
     "id": "2",
     "title": "Готовая работа 2",
-    "image": "https://res.cloudinary.com/yourcompleted2.jpg",
+    "image": "https://res.cloudinary.com/dtejbtiqt/image/upload/v1755438752/photo_2024-10-01_18-24-11_example.jpg",
     "description": "Декор для гостиной"
-  }
+  },
   {
-    "id": "1",
-    "title": "Готовая работа 1",
-    "image": "https://res.cloudinary.com/dtejbtiqt/image/upload/v1755438751/photo_2024-10-01_18-23-11_w4pxij.jpg",
-    "description": "Уже у заказчика"
+    "id": "3",
+    "title": "Готовая работа 3",
+    "image": "https://res.cloudinary.com/dtejbtiqt/image/upload/v1755438753/photo_2024-10-01_18-25-11_example.jpg",
+    "description": "Картина в стиле модерн"
   }
 ]
-
