@@ -1,11 +1,29 @@
 [
   {
     "id": "1",
-    "title": "Картина 1",
-    "image": "https://example.com/image1.jpg",
-    "description": "Описание картины",
-    "price": "100 BYN",
-    "whatsapp": "https://wa.me/375XXXXXXXXX",
-    "telegram": "https://t.me/username"
+    "title": "Лесная гармония",
+    "image": "https://res.cloudinary.com/dtejbtiqt/image/upload/v1755438599/5e093e67a50a326dfda27d58fd1dcbe3_copy_ex5hue.jpg",
+    "description": "Спокойная картина леса в утреннем свете.",
+    "price": "120 BYN",
+    "whatsapp": "https://wa.me/375293517220",
+    "telegram": "https://t.me/AnnPab"
+  },
+  {
+    "id": "2",
+    "title": "Морской бриз",
+    "image": "https://res.cloudinary.com/dtejbtiqt/image/upload/v1755438775/Untitled-2_%D1%84%D0%BE%D1%82%D0%BE%D1%88%D0%BE%D0%BF%D1%81%D0%BA%D0%B8%D0%B9_%D0%BB%D0%BE_pbbl0h.jpg",
+    "description": "Море и волны, передающие свежесть океана.",
+    "price": "150 BYN",
+    "whatsapp": "https://wa.me/375293517220",
+    "telegram": "https://t.me/AnnPab"
+  },
+  {
+    "id": "3",
+    "title": "Город в огнях",
+    "image": "https://res.cloudinary.com/dtejbtiqt/image/upload/v1755437951/cld-sample-4.jpg",
+    "description": "Ночной мегаполис с яркими огнями улиц.",
+    "price": "200 BYN",
+    "whatsapp": "https://wa.me/375293517220",
+    "telegram": "https://t.me/AnnPab"
   }
 ]
