@@ -1,0 +1,4 @@
+
+  {"id": "1", "title": "Картина 1", "image": "https://res.cloudinary.com/yourimage1.jpg", "description": "Описание 1"},
+  {"id": "2", "title": "Картина 2", "image": "https://res.cloudinary.com/yourimage2.jpg", "description": "Описание 2"}
+]
