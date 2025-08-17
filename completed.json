@@ -2,19 +2,22 @@
   {
     "id": "1",
     "title": "Готовая работа 1",
-    "image": "https://res.cloudinary.com/dtejbtiqt/image/upload/v1755437951/cld-sample-5.jpg",
-    "description": "Уже у заказчика"
+    "image": "https://res.cloudinary.com/dtejbtiqt/image/upload/v1755438687/gr_wsi9kt.jpg",
+    "description": "Уже у заказчика. Абстрактная картина с яркими красками.",
+    "price": "14 000 ₽"
   },
   {
     "id": "2",
     "title": "Готовая работа 2",
     "image": "https://res.cloudinary.com/dtejbtiqt/image/upload/v1755438723/nhbgnb_ftdj91.jpg",
-    "description": "Декор для гостиной"
+    "description": "Декор для гостиной в пастельных тонах.",
+    "price": "10 500 ₽"
   },
   {
     "id": "3",
     "title": "Готовая работа 3",
-    "image": "https://res.cloudinary.com/dtejbtiqt/image/upload/v1755438753/photo_2024-10-01_18-25-11_example.jpg",
-    "description": "Картина в стиле модерн"
+    "image": "https://res.cloudinary.com/dtejbtiqt/image/upload/v1755438599/5e093e67a50a326dfda27d58fd1dcbe3_copy_ex5hue.jpg",
+    "description": "Специальный заказ с морской тематикой.",
+    "price": "16 000 ₽"
   }
 ]
