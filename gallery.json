@@ -1,20 +1,11 @@
 [
   {
     "id": "1",
-    "title": "Картина Лес",
-    "image": "https://res.cloudinary.com/dtejbtiqt/image/upload/v1755438723/nhbgnb_ftdj91.jpg",
-    "description": "Красивый пейзаж с лесом и озером, выполненный маслом на холсте.",
-    "price": "150 BYN",
-    "whatsapp": "https://wa.me/375293517220",
-    "telegram": "https://t.me/AnnPab"
-  },
-  {
-    "id": "2",
-    "title": "Закат у моря",
-    "image": "https://res.cloudinary.com/dtejbtiqt/image/upload/v1755438599/5e093e67a50a326dfda27d58fd1dcbe3_copy_ex5hue.jpg",
-    "description": "Тёплый закат над морем, масло, 50x70 см.",
-    "price": "180 BYN",
-    "whatsapp": "https://wa.me/375293517220",
-    "telegram": "https://t.me/AnnPab"
+    "title": "Картина 1",
+    "image": "https://example.com/image1.jpg",
+    "description": "Описание картины",
+    "price": "100 BYN",
+    "whatsapp": "https://wa.me/375XXXXXXXXX",
+    "telegram": "https://t.me/username"
   }
 ]
